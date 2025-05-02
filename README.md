@@ -1,5 +1,6 @@
 # resumo-do-lab3
 Configurando uma instância de Banco de Dados na Azure
+
 Resumo sobre Configuração de uma Instância de Banco de Dados no Azure
 
 Durante o laboratório, aprendi como configurar uma instância de banco de dados no Azure, utilizando o Azure SQL Database, um serviço gerenciado que facilita o processo de criação, administração e escalabilidade de bancos de dados na nuvem.
